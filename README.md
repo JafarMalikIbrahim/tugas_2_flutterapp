@@ -1,8 +1,9 @@
-# name_app
+# tugas_2
 
 A new Flutter project.
-![home](images/home.jpeg)
-![favorit](images/favorite.jpeg)
+![home](https://user-images.githubusercontent.com/92065895/220698839-f6995e30-5b64-4492-8a9a-fcdfcd6573dc.png)
+![favorite](https://user-images.githubusercontent.com/92065895/220698928-5fb291a5-b9ca-425b-94a4-eb0d2131edc3.png)
+
 
 ## Getting Started
 
